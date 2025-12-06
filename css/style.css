@@ -32,7 +32,7 @@ body {
   font-family: var(--font);
   line-height: 1.6;
   overflow-x: hidden;
-  padding-top: 72px; /* offset for navbar height */
+  padding-top: 0px; /* offset for navbar height */
 }
 
 /* ---------- TYPOGRAPHY ---------- */
